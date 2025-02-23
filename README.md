@@ -25,7 +25,7 @@ BuyEver is a modern and responsive Ecommerce frontend project built with React.j
 ## 📦 Installation & Setup
 ### Clone the Repository
 ```bash
-git clone https://github.com/Adil-Soomro/buyever.git
+git clone https://github.com/Adil-Soomro/BuyEver---Ecommerce-React-Front-End-Project.git
 cd buyever
 ```
 
