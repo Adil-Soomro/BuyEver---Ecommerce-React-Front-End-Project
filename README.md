@@ -4,6 +4,10 @@
 ## 🛒 Overview
 **BuyEver** is a modern and responsive **Ecommerce website** built with **React.js** and **Tailwind CSS**. It offers a seamless online shopping experience with fast loading times, smooth UI interactions, and a mobile-friendly design.
 
+## 🌐 Live Preview
+[![View Site](https://img.shields.io/badge/Live%20Demo-BuyEver-blue?style=for-the-badge)](https://buyever.netlify.app/)
+
+
 ## 🚀 Features
 - 🔍 **Product Search & Filtering**
 - 🛍️ **Add to Cart & Checkout System**
